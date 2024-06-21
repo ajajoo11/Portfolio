@@ -22,7 +22,7 @@ import githubIcon from './tech/github.png';
 import figmaIcon from './tech/figma.png';
 import psqlIcon from './tech/postgresql.png';
 import eslintIcon from './tech/eslint.png';
-import viteIcon from './tech/vite.svg';
+import viteIcon from './tech/canva.png';
 import pyIcon from './tech/py.png';
 import nodeIcon from './tech/node.webp';
 import neoIcon from './tech/neo.png';

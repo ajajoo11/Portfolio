@@ -40,7 +40,7 @@ const Contact = () => {
         <SocialLinks />
         <div className="bg-grayscale-950 flex justify-center pb-4 text-primary-200">
           <span>
-            Made by <em>Sara Echeverría (bl33h)</em>
+            Made by <em>Ananya Jajoo</em>
           </span>
         </div>
       </div>
