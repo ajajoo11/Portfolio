@@ -31,8 +31,9 @@ import close from './close.svg';
 import menu from './menu.svg';
 
 // Projects
-import pawsitivePrototype from './projects/pawsitive.jpeg';
+import pawsitivePrototype from './projects/fabflix.png';
 import memoryGame from './projects/memory.jpg';
+// import checkersGame from './projects/checkers.png';
 
 // Avatar
 import avatar from './avatar/avatar.png';

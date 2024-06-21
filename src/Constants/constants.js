@@ -120,7 +120,7 @@ const projects = [
   {
     name: 'Checkers',
     description: 'This project implements Checkers in Python and Pygame, featuring a GUI and gameplay modes for player vs. AI and AI vs. AI. The AI uses the MiniMax algorithm, with optional alpha-beta pruning for improved performance.',
-    image: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRkaWp6MDJ1cXNrZmMzaTZ2aXVhcWtndWJpNHg0djRpYWdtYjF3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p49LPwL9yAoZInx28N/giphy.gif",
+    image: "https://thepythoncode.com/media/articles/make-a-checkers-game-with-pygame-in-python/img007.png",
     source_code_link: 'https://github.com/bl33h/connectFour',
     demo_link: 'https://youtu.be/CBceC2BXJyE',
   },
